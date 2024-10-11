@@ -1,0 +1,7 @@
+## Interface: 100007
+## Title: sKeyPress updated by Aufgosh
+## Author: Sane
+## Version: 1.0.3
+## Notes: sKeyPress version: 1.0.3
+
+sKeyPress.lua
